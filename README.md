@@ -13,13 +13,13 @@
 3 Water Institute, University of Waterloo, Waterloo, Ontario, Canada, N2L 3G1
 
 4 Cold Regions Research Centre, Wilfrid Laurier University, Waterloo, Ontario, Canada, N2L 3C5
-
- 
-
+  
+  
+  
 This repository aims to serve as a comprehensive resource for researchers and professionals looking to leverage satellite-based Chl-a modeling for water quality analysis, particularly in oligo-mesotrophic waters.
-
- 
-
+  
+  
+  
 **Repository Structure**
 
 AllData.xlsx: Contains the primary dataset used in this research. Preview here
@@ -43,9 +43,9 @@ MATLAB: Folder containing MATLAB scripts.
   Mod_vs_Meas.m: Generates scatter plots of measured vs. modeled Chl-a concentrations.
   
   CorrelationAnalysis.m: Produces scatter plots for different categories based on Excel data.
-
- 
-
+  
+  
+  
 **Original Data Sources**
 
 FRDR → https://doi.org/10.20383/102.0713
@@ -59,9 +59,9 @@ Great Lakes Water Quality Monitoring and Surveillance Data → https://data-donn
 USGS EarthExplorer (for Landsat) → https://earthexplorer.usgs.gov/
 
 Copernicus Data Hub (for Sentinel 2) → https://scihub.copernicus.eu/
-
- 
-
+  
+  
+  
 **Usage**
 
 To execute the scripts, ensure the required dependencies are installed:
@@ -71,15 +71,15 @@ For Python scripts: os, pandas, numpy, and sklearn.
 For MATLAB scripts: MATLAB environment.
 
 Make sure to update paths to datasets and other files as necessary in each script.
-
- 
-
+  
+  
+  
 **License**
 
 The code and data in this repository are licensed under CC BY 4.0.
-
   
-
+  
+  
 **References**
 For any queries or further clarifications, please contact Ali Reza Shahvaran at alireza.shahvaran@uwaterloo.ca.
 
