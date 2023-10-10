@@ -14,7 +14,7 @@
 
 4 Cold Regions Research Centre, Wilfrid Laurier University, Waterloo, Ontario, Canada, N2L 3C5
 
-  
+ 
 
 This repository aims to serve as a comprehensive resource for researchers and professionals looking to leverage satellite-based Chl-a modeling for water quality analysis, particularly in oligo-mesotrophic waters.
 
@@ -44,7 +44,7 @@ MATLAB: Folder containing MATLAB scripts.
   
   CorrelationAnalysis.m: Produces scatter plots for different categories based on Excel data.
 
-  
+ 
 
 **Original Data Sources**
 
@@ -60,16 +60,19 @@ USGS EarthExplorer (for Landsat) → https://earthexplorer.usgs.gov/
 
 Copernicus Data Hub (for Sentinel 2) → https://scihub.copernicus.eu/
 
-  
+ 
 
 **Usage**
 
 To execute the scripts, ensure the required dependencies are installed:
+
 For Python scripts: os, pandas, numpy, and sklearn.
+
 For MATLAB scripts: MATLAB environment.
+
 Make sure to update paths to datasets and other files as necessary in each script.
 
-  
+ 
 
 **License**
 
