@@ -1,4 +1,6 @@
-# UW_Thesis_Chapter_2
+# UW_Thesis_Chapter_2  
+
+![Layout](https://github.com/arshahvaran/UW_Thesis_Chapter_2/assets/61093183/6b7049a8-6000-440b-8214-3c90ccd5aaa6)
 
 **A Comprehensive Evaluation of Semi-Empirical Retrieval Schemes for Satellite-Based Chl-a Modelling in Oligo-Mesotrophic Waters: A Case Study of Western Lake Ontario**
 
@@ -82,4 +84,5 @@ The code and data in this repository are licensed under CC BY 4.0. ![CC BY 4.0. 
   
 ## References
 For any queries or further clarifications, please contact Ali Reza Shahvaran at alireza.shahvaran@uwaterloo.ca.
+
 
