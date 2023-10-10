@@ -1,11 +1,15 @@
 # UW_Thesis_Chapter_2
 
-A Comprehensive Evaluation of Semi-Empirical Retrieval Schemes for Satellite-Based Chl-a Modelling in Oligo-Mesotrophic Waters: A Case Study of Western Lake Ontario
+**A Comprehensive Evaluation of Semi-Empirical Retrieval Schemes for Satellite-Based Chl-a Modelling in Oligo-Mesotrophic Waters: A Case Study of Western Lake Ontario**
 
-Ali Reza Shahvaran1,2,3,*, Homa Kheyrollah Pour2,4, and Philippe Van Cappellen1,3
+**Ali Reza Shahvaran1,2,3,*, Homa Kheyrollah Pour2,4, and Philippe Van Cappellen1,3**
+
 1Ecohydrology Research Group, Department of Earth and Environmental Sciences, University of Waterloo, Ontario, Canada, N2L 3G1
+
 2Remote Sensing of Environmental Change (ReSEC) Research Group, Department of Geography and Environmental Studies, Wilfrid Laurier University, Waterloo, Ontario, Canada, N2L 3C5
+
 3Water Institute, University of Waterloo, Waterloo, Ontario, Canada, N2L 3G1
+
 4Cold Regions Research Centre, Wilfrid Laurier University, Waterloo, Ontario, Canada, N2L 3C5
 
 
@@ -13,6 +17,7 @@ This repository aims to serve as a comprehensive resource for researchers and pr
 
 
 **Repository Structure**
+
 AllData.xlsx: Contains the primary dataset used in this research. Preview here
 Python: Folder containing Python scripts.
   Merge.py: Merges and preprocesses multiple Excel files.
@@ -27,6 +32,7 @@ MATLAB: Folder containing MATLAB scripts.
 
 
 **Original Data Sources**
+
 FRDR → https://doi.org/10.20383/102.0713
 HH Water Quality Data → https://data.ec.gc.ca/data/sites/areainterest/hamilton-harbour-area-of-concern/hamilton-harbour-water-quality-data/
 Great Lakes Nearshore - Water Chemistry → https://data.ontario.ca/dataset/water-chemistry-great-lakes-nearshore-areas) 
@@ -36,6 +42,7 @@ Copernicus Data Hub (for Sentinel 2) → https://scihub.copernicus.eu/
 
 
 **Usage**
+
 To execute the scripts, ensure the required dependencies are installed:
 For Python scripts: os, pandas, numpy, and sklearn.
 For MATLAB scripts: MATLAB environment.
@@ -43,6 +50,7 @@ Make sure to update paths to datasets and other files as necessary in each scrip
 
 
 **License**
+
 The code and data in this repository are licensed under CC BY 4.0.
 
 
