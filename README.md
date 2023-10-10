@@ -76,7 +76,7 @@ Make sure to update paths to datasets and other files as necessary in each scrip
   
 ## License
 
-The code and data in this repository are licensed under CC BY 4.0.
+The code and data in this repository are licensed under CC BY 4.0. !(https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)
   
   
   
